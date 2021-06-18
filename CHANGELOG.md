@@ -1,3 +1,10 @@
+# 1.0.0 (2021-06-18)
+
+
+### Features
+
+* primeira versão ([efb7316](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/efb731676b8192717a94d72e4706f54c18d45a60))
+
 # [1.2.0](https://github.com/homy-game-studio/hgs-upm-template/compare/v1.1.1...v1.2.0) (2021-06-15)
 
 
