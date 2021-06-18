@@ -1,0 +1,15 @@
+{
+    "name": "HGS.ScrollableMenuSystem.Runtime",
+    "references": [
+        "GUID:a3ce0232b4ca3f74aa25a41b93098c33"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
