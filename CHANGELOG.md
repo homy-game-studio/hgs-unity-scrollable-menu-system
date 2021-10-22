@@ -1,3 +1,20 @@
+# [2.0.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v1.0.0...v2.0.0) (2021-10-22)
+
+
+### Bug Fixes
+
+* corrige metafiles ([e857d50](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/e857d50f5be423d4d251479f2cd8746cedd7e8a4))
+
+
+### Performance Improvements
+
+* atualiza versao do shared utils para 3.0.0 ([f6476e4](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/f6476e4a9fc7835ee19ec816ab9e6b657bd6d81f))
+
+
+### BREAKING CHANGES
+
+* corrige metafiles
+
 # 1.0.0 (2021-06-18)
 
 
