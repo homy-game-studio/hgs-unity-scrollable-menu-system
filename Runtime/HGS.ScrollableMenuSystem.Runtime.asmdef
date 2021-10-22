@@ -1,7 +1,8 @@
 {
     "name": "HGS.ScrollableMenuSystem.Runtime",
+    "rootNamespace": "",
     "references": [
-        "GUID:a3ce0232b4ca3f74aa25a41b93098c33"
+        "GUID:c6b6065d38014fe08566896e5b647a62"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
