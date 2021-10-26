@@ -1,3 +1,10 @@
+## [2.0.1](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v2.0.0...v2.0.1) (2021-10-26)
+
+
+### Bug Fixes
+
+* corrige serialização do field parentScroll ([aba293c](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/aba293ca24b3d5444c0be4d154b779fbd31b0cd0))
+
 # [2.0.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v1.0.0...v2.0.0) (2021-10-22)
 
 
