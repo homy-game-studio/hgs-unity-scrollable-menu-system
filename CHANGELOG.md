@@ -1,3 +1,10 @@
+## [3.1.1](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v3.1.0...v3.1.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* Remove button from sample ([27ab75e](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/27ab75ea1e9fddb2332b01e10dd454e37ef9050e))
+
 # [3.1.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v3.0.1...v3.1.0) (2023-03-07)
 
 
