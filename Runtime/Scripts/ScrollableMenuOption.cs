@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using HGS.ScrollableMenuSystem.Extensions;
 using UnityEngine;
 using UnityEngine.UI;
@@ -23,31 +22,55 @@ namespace HGS.ScrollableMenuSystem
 
     public RectTransform TabContent => tabContent;
 
+    public RectTransform RectTransform
+    {
+      get
+      {
+        if (!_rectTransform) _rectTransform = GetComponent<RectTransform>();
+        return _rectTransform;
+      }
+    }
+
+    public Animator Animator
+    {
+      get
+      {
+        if (!_animator) _animator = GetComponent<Animator>();
+        return _animator;
+      }
+    }
+
+    public Button Button
+    {
+      get
+      {
+        if (!_button) _button = GetComponent<Button>();
+        return _button;
+      }
+    }
+
     public Button.ButtonClickedEvent OnClickEvent
     {
-      get => _button.onClick;
-      set => _button.onClick = value;
+      get => Button.onClick;
+      set => Button.onClick = value;
     }
 
     void Awake()
     {
-      _rectTransform = GetComponent<RectTransform>();
-      _button = GetComponent<Button>();
-      _animator = GetComponent<Animator>();
       _targetWidth = defaultSize;
     }
 
     void Update()
     {
-      var width = _rectTransform.GetWidth();
+      var width = RectTransform.GetWidth();
       var newWidth = Mathf.Lerp(width, _targetWidth, Time.deltaTime * resizeDamping);
-      _rectTransform.SetWidth(newWidth);
+      RectTransform.SetWidth(newWidth);
     }
 
     public void Toggle(bool value)
     {
       _targetWidth = value ? activeSize : defaultSize;
-      _animator.SetBool("IsActive", value);
+      Animator.SetBool("IsActive", value);
     }
   }
 }
