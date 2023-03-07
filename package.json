@@ -1,6 +1,6 @@
 {
   "name": "com.hgs.scrollable-menu-system",
-  "version": "2.0.1",
+  "version": "3.0.0",
   "displayName": "Scrollable Menu System",
   "description": "Fornece todas as ferramentas necessárias e componentes para adição de um menu principal moderno ao seu jogo, usando ScrollRect.",
   "unity": "2020.1",
