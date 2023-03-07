@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v3.0.0...v3.0.1) (2023-03-07)
+
+
+### Bug Fixes
+
+* Add Tabs keyword to package ([f0a3d58](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/f0a3d58f037eca842de41d9f178993d078ddfa17))
+
 # [3.0.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v2.0.1...v3.0.0) (2023-03-07)
 
 
