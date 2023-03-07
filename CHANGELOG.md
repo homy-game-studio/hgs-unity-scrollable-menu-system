@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v3.0.1...v3.1.0) (2023-03-07)
+
+
+### Features
+
+* Rename unity package ([cb25fca](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/cb25fca76a7aa786d186b193c6d483a6faae94e5))
+
 ## [3.0.1](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v3.0.0...v3.0.1) (2023-03-07)
 
 
