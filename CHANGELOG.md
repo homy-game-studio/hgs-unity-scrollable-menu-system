@@ -3,6 +3,38 @@
 
 ### Bug Fixes
 
+* Forced release ([4416bf1](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/4416bf1ecb16da36651dc94e1af683019bd6b9ac))
+* Semantic release build ([00b0350](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/00b0350071495b7dcf30d5f1eada359dffc7be5b))
+* Semantic release build ([02bca4e](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/02bca4e6c8b3c28e0d3143cad68efd3e127b1084))
+* Update docs ([b082034](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/b0820344f0fdb468976d251e005783f578346dd3))
+
+
+### Code Refactoring
+
+* Converts InnerScroll and OutterScroll in ChildScroll ([ed8bedc](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/ed8bedc6368ee9c096be407187a291645a353af6))
+* Remove old prefabs ([7cab561](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/7cab56143216f9f42b51edede4fc47e644643bc7))
+
+
+### Features
+
+* Add animations ([5217128](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/5217128d12d20e98f8498dbedc2a8343b578de9e))
+* Add editor utilities ([ec801bd](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/ec801bdd57dfb206c40fb1034486ff13cb5618f0))
+* Add new ScrollableMenu logic ([6b88fdc](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/6b88fdc7d0c8306d28b586f7d54a6df1d7569e71))
+* Add RectTransformExtension ([e70b4d0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/e70b4d00b0bd3d9279b8a59e5b3172835dccba09))
+* Add TabInterpolation and Layout ([70338b6](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/70338b6e9490fdfe2232700707b37306f1e8d22e))
+
+
+### BREAKING CHANGES
+
+* ScrollableMenu referencies
+* Remove InnerScroll and OutterScroll
+* Remove old prefabs
+
+# [3.0.0](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/compare/v2.0.1...v3.0.0) (2023-03-07)
+
+
+### Bug Fixes
+
 * Semantic release build ([00b0350](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/00b0350071495b7dcf30d5f1eada359dffc7be5b))
 * Semantic release build ([02bca4e](https://github.com/homy-game-studio/hgs-unity-scrollable-menu-system/commit/02bca4e6c8b3c28e0d3143cad68efd3e127b1084))
 
