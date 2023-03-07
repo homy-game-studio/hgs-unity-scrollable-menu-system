@@ -12,8 +12,5 @@
   "author": {
     "name": "Homy Game Studio",
     "email": "contato@homygamestudio.com"
-  },
-  "dependencies": {
-    "com.hgs.shared-utils": "https://github.com/homy-game-studio/hgs-unity-shared-utils.git#3.0.0"
   }
 }
